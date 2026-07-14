@@ -1,0 +1,506 @@
+{
+  "mods": [
+    {
+      "name": "Fabric API",
+      "file_name": "fabric-api-0.141.4+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/fabric-api-0.141.4+1.21.11.jar",
+      "sha1": "13d3885dfec40313e2b3bf9ee639353272b9b48a"
+    },
+    {
+      "name": "Grim",
+      "file_name": "grimac-fabric-2.3.73.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/grimac-fabric-2.3.73.jar",
+      "sha1": "7a6fcb37c8a2845268f8072166b929d4b963863a"
+    },
+    {
+      "name": "Inertia Anti Cheat",
+      "file_name": "InertiaAntiCheat-1.1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/InertiaAntiCheat-1.1.1.2.jar",
+      "sha1": "5b900276498c619b67375ccb70e4de0ed2efaa84"
+    },
+    {
+      "name": "Fabric Permission",
+      "file_name": "fabric-permissions-api-0.6.1.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/fabric-permissions-api-0.6.1.jar",
+      "sha1": "e5805ecb96c9b54158efc66847978b79b35f9928"
+    },
+    {
+      "name": "ValorSMP Authentificator",
+      "file_name": "valorsmp-authenticator-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/valorsmp-authenticator-1.0.0.jar",
+      "sha1": "5e3549a13b21d94b0ceee938692a47f99e0722d1"
+    },
+    {
+      "name": "valorsmp quit on disconnect",
+      "file_name": "valorsmp-quit-on-disconnect-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/valorsmp-quit-on-disconnect-1.0.0.jar",
+      "sha1": "290ba1efe398a0c8f8b4a9315d3e612070d161aa"
+    },
+    {
+      "name": "Animatica",
+      "file_name": "animatica-0.6.1+1.21.5.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/animatica-0.6.1+1.21.5.jar",
+      "sha1": "48746e8fbf005ffd4b7018cf37339a312865c57b"
+    },
+    {
+      "name": "appleskin",
+      "file_name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/appleskin-fabric-mc1.21.11-3.0.8.jar",
+      "sha1": "441fdbf4e9c34fb61517ceb8e15618950dc4d314"
+    },
+    {
+      "name": "bbe",
+      "file_name": "bbe-fabric-1.3.4+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/bbe-fabric-1.3.4+mc1.21.11.jar",
+      "sha1": "e9f247278ef17128fbfcd2b0e248ac02a3de279b"
+    },
+    {
+      "name": "BetterGrassify",
+      "file_name": "BetterGrassify-1.8.7+fabric.1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/BetterGrassify-1.8.7+fabric.1.21.11.jar",
+      "sha1": "7169f35f91ddaf3d9989de45f46072247c37e05c"
+    },
+    {
+      "name": "bettermounthud",
+      "file_name": "bettermounthud-1.2.6.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/bettermounthud-1.2.6.jar",
+      "sha1": "e32f65110c66a0862617dd137531d20a0697f9a9"
+    },
+    {
+      "name": "cape-provider",
+      "file_name": "cape-provider-5.1.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/cape-provider-5.1.0.jar",
+      "sha1": "cb8058071cabdc717a58fad809b00ac27f88cd7f"
+    },
+    {
+      "name": "chat_heads",
+      "file_name": "chat_heads-1.2.4-fabric-1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/chat_heads-1.2.4-fabric-1.21.11.jar",
+      "sha1": "dbb0d197a19bbe5de43242595add638a2f6e2131"
+    },
+    {
+      "name": "chesttracker",
+      "file_name": "chesttracker-2.8.2+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/chesttracker-2.8.2+1.21.11.jar",
+      "sha1": "7968e615d093873be8e418175954b82d3c15ea76"
+    },
+    {
+      "name": "cloth-config",
+      "file_name": "cloth-config-21.11.153-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/cloth-config-21.11.153-fabric.jar",
+      "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee"
+    },
+    {
+      "name": "Clumps",
+      "file_name": "Clumps-fabric-1.21.11-29.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/Clumps-fabric-1.21.11-29.0.0.1.jar",
+      "sha1": "626fde9e970030cfc8cb64cd0a1abfc03d37ecc2"
+    },
+    {
+      "name": "Collective",
+      "file_name": "collective-1.21.11-8.32.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/collective-1.21.11-8.32.jar",
+      "sha1": "d8fcd71c03ae68b8f5b057e689f5e23fe30b6f21"
+    },
+    {
+      "name": "Config Manager",
+      "file_name": "ConfigManager-fabric-1.21.x-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/ConfigManager-fabric-1.21.x-1.1.1.jar",
+      "sha1": "9ea08cbfeca54a94afb92edf8b1b95396fb48129"
+    },
+    {
+      "name": "Continuity",
+      "file_name": "continuity-3.0.1-beta.1+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/continuity-3.0.1-beta.1+1.21.11.jar",
+      "sha1": "51d34c3f2035db0c7fca321b2d94f01b5167707c"
+    },
+    {
+      "name": "Controlify",
+      "file_name": "controlify-3.0.1+lts+1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/controlify-3.0.1+lts+1.21.11-fabric.jar",
+      "sha1": "b33c16521138eca7f8cca2ef7672c7866ddd3433"
+    },
+    {
+      "name": "Crash Assistant",
+      "file_name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
+      "sha1": "bd73f580d652a9cf87566ccb0fb63666f5651879"
+    },
+    {
+      "name": "Cave Weather Biomes",
+      "file_name": "cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
+      "sha1": "51d97f5fba7b6a132976765e06f93e8f044d382c"
+    },
+    {
+      "name": "Debugify",
+      "file_name": "debugify-1.21.11+1.1.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/debugify-1.21.11+1.1.jar",
+      "sha1": "a8852a320c6d1a448cfc0f7cb0369e0a3c858146"
+    },
+    {
+      "name": "Dynamic FPS",
+      "file_name": "dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+      "sha1": "2e5ab45e69b43812491cfa34f8f7a4ce7623c233"
+    },
+    {
+      "name": "e4mc",
+      "file_name": "e4mc-fabric-6.2.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/e4mc-fabric-6.2.0.jar",
+      "sha1": "66eeb81d539623947921c0019a0d6fbea997464c"
+    },
+    {
+      "name": "Effect Timer Plus",
+      "file_name": "effecttimerplus-fabric-2.2.7+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/effecttimerplus-fabric-2.2.7+1.21.11.jar",
+      "sha1": "7a852400f93df5fc47637baf7000b68d2df9a630"
+    },
+    {
+      "name": "Entity Culling",
+      "file_name": "entityculling-fabric-1.10.5-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/entityculling-fabric-1.10.5-mc1.21.11.jar",
+      "sha1": "270493a6d3a3214495abed9e74f2181817043963"
+    },
+    {
+      "name": "Entity Model Features",
+      "file_name": "entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/entity_model_features-3.2.4-1.21.11-fabric.jar",
+      "sha1": "fb87711a8252c4b54908c589e3c13b00a767808e"
+    },
+    {
+      "name": "Entity Texture Features",
+      "file_name": "entity_texture_features_1.21.11-fabric-7.1.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/entity_texture_features_1.21.11-fabric-7.1.jar",
+      "sha1": "1d26dbb21dd4f17adbdb54f077334634f708a3d4"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "file_name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720"
+    },
+    {
+      "name": "Fabrishot",
+      "file_name": "fabrishot-1.16.4.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/fabrishot-1.16.4.jar",
+      "sha1": "e1fe184321dd305e7935f146637381bd63a29891"
+    },
+    {
+      "name": "FastQuit",
+      "file_name": "fastquit-3.1.3+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/fastquit-3.1.3+mc1.21.11.jar",
+      "sha1": "9ba127357e1fc9ff800496250fb510f70f394714"
+    },
+    {
+      "name": "FerriteCore",
+      "file_name": "ferritecore-8.2.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/ferritecore-8.2.0-fabric.jar",
+      "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65"
+    },
+    {
+      "name": "Forge Config API Port",
+      "file_name": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d"
+    },
+    {
+      "name": "Fullbrightness Toggle",
+      "file_name": "fullbrightnesstoggle-1.21.11-4.5.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/fullbrightnesstoggle-1.21.11-4.5.jar",
+      "sha1": "86d798ac69bc23503ed75ceeda539ab12040564b"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "file_name": "ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
+      "sha1": "43e451464f979bdf9ff4ac288b358a2f91b79ed8"
+    },
+    {
+      "name": "Iris Shaders",
+      "file_name": "iris-fabric-1.10.7+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/iris-fabric-1.10.7+mc1.21.11.jar",
+      "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c"
+    },
+    {
+      "name": "Ixeris",
+      "file_name": "Ixeris-4.5.2+1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/Ixeris-4.5.2+1.21.11-fabric.jar",
+      "sha1": "64da6c204a1a2af10b189dc96d15837e496e41c2"
+    },
+    {
+      "name": "Jade",
+      "file_name": "Jade-1.21.11-Fabric-21.1.6.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/Jade-1.21.11-Fabric-21.1.6.jar",
+      "sha1": "b48b23fe3b9175641bd63ce5c3373977f8f15723"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "file_name": "jei-1.21.11-fabric-27.17.0.49.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/jei-1.21.11-fabric-27.17.0.49.jar",
+      "sha1": "32d9ad946c64f4be2ee54f4b1616a2eec477f6c0"
+    },
+    {
+      "name": "LambDynamicLights",
+      "file_name": "lambdynamiclights-4.9.1+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/lambdynamiclights-4.9.1+1.21.11.jar",
+      "sha1": "f22487846158f62b3485a5a0723ba048326ac00f"
+    },
+    {
+      "name": "Language Reload",
+      "file_name": "language-reload-1.7.7+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/language-reload-1.7.7+1.21.11.jar",
+      "sha1": "eb4bca721845c31d76e5105f3161ccad2d7ec57e"
+    },
+    {
+      "name": "Lithium",
+      "file_name": "lithium-fabric-0.21.4+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+      "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec"
+    },
+    {
+      "name": "Main Menu Credits",
+      "file_name": "main-menu-credits-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/main-menu-credits-1.2.0.jar",
+      "sha1": "37ad23f76336eedbd940a1f99c5e49d969fdee67"
+    },
+    {
+      "name": "MixinTrace",
+      "file_name": "mixintrace-1.1.1+1.17.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/mixintrace-1.1.1+1.17.jar",
+      "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69"
+    },
+    {
+      "name": "Mod Menu",
+      "file_name": "modmenu-17.0.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/modmenu-17.0.0.jar",
+      "sha1": "544a8b340ac3918d85bcc7d02eaff5372814354b"
+    },
+    {
+      "name": "More Chat History",
+      "file_name": "morechathistory-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/morechathistory-1.3.1.jar",
+      "sha1": "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e"
+    },
+    {
+      "name": "More Culling",
+      "file_name": "moreculling-fabric-1.21.11-1.6.2.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/moreculling-fabric-1.21.11-1.6.2.jar",
+      "sha1": "11a929de62650cc536244d4c2ba889fa84c1c0f2"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "file_name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "sha1": "86515de45fe960bd717deea0954055106e857b81"
+    },
+    {
+      "name": "No Chat Reports",
+      "file_name": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+      "sha1": "4e519507bdd81ce2520da33f497a5f12469f5b10"
+    },
+    {
+      "name": "OptiGUI",
+      "file_name": "optigui-2.3.0-beta.10+1.21.9.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/optigui-2.3.0-beta.10+1.21.9.jar",
+      "sha1": "1e209418863e8fda53508e33a3251a59b1db7220"
+    },
+    {
+      "name": "Paginated Advancements",
+      "file_name": "paginatedadvancements-2.8.0+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/paginatedadvancements-2.8.0+1.21.11.jar",
+      "sha1": "ac6c5721f567e679f3406b12c96c15a1341cb586"
+    },
+    {
+      "name": "Placeholder API",
+      "file_name": "placeholder-api-2.8.2+1.21.10.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/placeholder-api-2.8.2+1.21.10.jar",
+      "sha1": "bbdc920ecff993148cd6e81a208536132245ce40"
+    },
+    {
+      "name": "Polytone",
+      "file_name": "polytone-fabric-1.21.11-5.9.4.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/polytone-fabric-1.21.11-5.9.4.jar",
+      "sha1": "dd900b03ff2d007260304d00319e6dbb42d5f4bb"
+    },
+    {
+      "name": "Puzzle",
+      "file_name": "puzzle-fabric-2.3.0+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/puzzle-fabric-2.3.0+1.21.11.jar",
+      "sha1": "38ac343fa4d93c405549c355b1d39b536978ed64"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "file_name": "reeses-sodium-options-fabric-2.2.3+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/reeses-sodium-options-fabric-2.2.3+mc1.21.11.jar",
+      "sha1": "4f6b87af721a08816fbeb15636db1a47e34291d2"
+    },
+    {
+      "name": "Really Really Loud Sounds",
+      "file_name": "rrlsFabric-5.1.15+mc.1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/rrlsFabric-5.1.15+mc.1.21.11.jar",
+      "sha1": "7101fc7a030925eb22781320476515f408bbe5f4"
+    },
+    {
+      "name": "Shulker Box Tooltip",
+      "file_name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
+      "sha1": "3f889de77a0aec69ffcfd28bf6fb2c077443788a"
+    },
+    {
+      "name": "3D Skin Layers",
+      "file_name": "skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
+      "sha1": "c80cbb86aa578e2c7a0a8111d010edafe1deda6e"
+    },
+    {
+      "name": "Skyboxify",
+      "file_name": "skyboxify-3.1+1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/skyboxify-3.1+1.21.11-fabric.jar",
+      "sha1": "5134041fb98b342829bbef16a0c3f72bc3c54112"
+    },
+    {
+      "name": "Sodium Extra",
+      "file_name": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+      "sha1": "e8fd1eae0d589393189f64062ca1e46fc03f4ced"
+    },
+    {
+      "name": "Sodium",
+      "file_name": "sodium-fabric-0.8.12+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/sodium-fabric-0.8.12+mc1.21.11.jar",
+      "sha1": "4d80592bef36674e7469ae2737a7704b826289ae"
+    },
+    {
+      "name": "Sodium Shadowy Path Blocks",
+      "file_name": "sodium-shadowy-path-blocks-fabric-6.0.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/sodium-shadowy-path-blocks-fabric-6.0.0.jar",
+      "sha1": "8195c99b870e7d961d61453e0e3192bbaf1d97f5"
+    },
+    {
+      "name": "UkuLib",
+      "file_name": "ukulib-1.10.2+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/ukulib-1.10.2+1.21.11.jar",
+      "sha1": "8dfeaf1cacb1dce35c06489d99f193e538a3827f"
+    },
+    {
+      "name": "Ukus Armor HUD",
+      "file_name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/ukus-armor-hud-0.10.2+mc1.21.11.jar",
+      "sha1": "e11951aab0ff32626feb48045da0574260784543"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "file_name": "voicechat-fabric-1.21.11-2.6.20.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/voicechat-fabric-1.21.11-2.6.20.jar",
+      "sha1": "c89ae178b319e83f1461368d2b93c917cd5ce578"
+    },
+    {
+      "name": "Voxy",
+      "file_name": "voxy-0.2.16-beta+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/voxy-0.2.16-beta+1.21.11.jar",
+      "sha1": "280a55279e0860d29146d908cd8a0246a12e2537"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "file_name": "xaerominimap-fabric-1.21.11-26.2.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/xaerominimap-fabric-1.21.11-26.2.0.jar",
+      "sha1": "7a3d174fd12c0406db8a8106b3d76c655e86b207"
+    },
+    {
+      "name": "Xaero's World Map",
+      "file_name": "xaeroworldmap-fabric-1.21.11-1.42.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/xaeroworldmap-fabric-1.21.11-1.42.0.jar",
+      "sha1": "769de7224f438e4f2a68a916a12434df723ee53d"
+    },
+    {
+      "name": "Yet Another Config Lib (YACL)",
+      "file_name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66"
+    },
+    {
+      "name": "Zoomify",
+      "file_name": "zoomify-2.15.2+1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/zoomify-2.15.2+1.21.11.jar",
+      "sha1": "e1f738a9026e9f087d96861935f994b010b8131a"
+    },
+    {
+      "name": "no-minestrator-ads",
+      "file_name": "no-minestrator-ads-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/no-minestrator-ads-1.0.0.jar",
+      "sha1": "6da61adfddb87ae1934275e066563e4bb6fe94bc"
+    },
+    {
+      "name": "particlerain",
+      "file_name": "particlerain-4.0.0-beta.10+1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/particlerain-4.0.0-beta.10+1.21.11-fabric.jar",
+      "sha1": "2cdf97e6c42fe963f2128f280a36fdef38186b18"
+    },
+    {
+      "name": "eg_stop_unloading_my_shaders",
+      "file_name": "eg_stop_unloading_my_shaders-1.3+1.21.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/mods/eg_stop_unloading_my_shaders-1.3+1.21.11-fabric.jar",
+      "sha1": "085b54233bbe65e7cc6432317f0ed0eb61fe492f"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "UD Refined",
+      "file_name": "UD Refined - Lite - 1.20.2-26.x.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/resourcepacks/UD Refined - Lite - 1.20.2-26.x.zip",
+      "sha1": "c69c4af8d7d57bfb4eec4d0f977075646c30cbd2"
+    },
+    {
+      "name": "Animated Ore with Frames",
+      "file_name": "Animated-Ore-with-Frames-0.1.17+mc1.20-26.2.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/resourcepacks/Animated-Ore-with-Frames-0.1.17+mc1.20-26.2.zip",
+      "sha1": "22610895b214e2b9cf905ce511f0811a9955c533"
+    },
+    {
+      "name": "Blue Netherite",
+      "file_name": "Blue Netherite[1.2.1].zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/resourcepacks/Blue Netherite[1.2.1].zip",
+      "sha1": "99d7eb74f60053c835aa8a4ab9849f774f7c34ed"
+    },
+    {
+      "name": "Dramatic Skys Demo",
+      "file_name": "Dramatic Skys Demo 1.5.3.36.5.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/resourcepacks/Dramatic Skys Demo 1.5.3.36.5.zip",
+      "sha1": "c7d3a0911135f2c1f873283faaa34879df46326c"
+    },
+    {
+      "name": "LowOnFire",
+      "file_name": "LowOnFire v26.2\u00a78.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/resourcepacks/LowOnFire v26.2\u00a78.zip",
+      "sha1": "96932a034fff4cd0cad08ba12db730450c4772da"
+    },
+    {
+      "name": "Small Shield & Totem",
+      "file_name": "Small_Shield_&_Totem_2.11.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/resourcepacks/Small_Shield_&_Totem_2.11.zip",
+      "sha1": "72fdda7f485b5cfe3ebbc0a47af756ae093dd140"
+    }
+  ],
+  "shaderpacks": [
+    {
+      "name": "ComplementaryUnbound",
+      "file_name": "ComplementaryUnbound_r5.8.1.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c"
+    },
+    {
+      "name": "Solas Shader",
+      "file_name": "Solas Shader V3.7.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/shaderpacks/Solas Shader V3.7.zip",
+      "sha1": "0b8296fccb872babba488acec206816c7b48e222"
+    },
+    {
+      "name": "E-LITE Shaders",
+      "file_name": "\u00a7lE-LITE shaders 5.1.1.zip",
+      "url": "https://raw.githubusercontent.com/valorsmp/valorsmp-launcher-releases/main/shaderpacks/\u00a7lE-LITE shaders 5.1.1.zip",
+      "sha1": "68e3189b691a8387bc2815046ea14f9053f91e2c"
+    }
+  ]
+}
