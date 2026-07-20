@@ -1,1 +1,0 @@
-# valorsmp-launcher-releases
